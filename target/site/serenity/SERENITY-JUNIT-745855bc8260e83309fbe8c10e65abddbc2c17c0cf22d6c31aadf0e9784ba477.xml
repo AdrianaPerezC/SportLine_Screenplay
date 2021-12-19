@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="HU-001 Buscador MercadoLibre" skipped="0" tests="1" time="51.11" timestamp="2021-12-16 09:44:34"><testcase name="Buscar producto."><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+tasks.BuscarProducto.performAs(BuscarProducto.java:23)&#13;
+stepsDefinitions.SportLineBuscadorStepDefinitions.busqueElProducto(SportLineBuscadorStepDefinitions.java:37)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
